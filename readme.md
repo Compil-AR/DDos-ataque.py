@@ -1,8 +1,7 @@
-# DDoS Attack Script 🌐⚠️
+# DDoS Ataque Script en Python 🌐⚠️
 
 Este script implementa un ataque de denegación de servicio distribuido (DDoS). **Su uso es estrictamente prohibido con fines maliciosos o ilegales**. Este código se proporciona únicamente con fines educativos y debe usarse de manera ética y responsable.
 
-![Logo DDoS](logo-github-ddos.png)
 
 ## 🚨 Descargo de Responsabilidad
 
@@ -13,12 +12,11 @@ El uso de este script para llevar a cabo ataques DDoS está estrictamente prohib
 1. Clona el repositorio:
     ```bash
     git clone https://github.com/Compil-AR/DDos-ataque.py.git
-    cd RepositorioDDoS
     ```
 
 2. Ejecuta el script:
     ```bash
-    python ddos.py
+    python DDos-ataque.py
     ```
 
 ## 📊 Características
@@ -39,4 +37,4 @@ Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
 
 ## 📬 Contacto
 
-- GitHub: [@TuUsuario](https://github.com/Compil-AR)
+- GitHub: [@Compil-AR]([https://github.com/Compil-AR])
