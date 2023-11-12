@@ -2,7 +2,7 @@
 
 Este script implementa un ataque de denegación de servicio distribuido (DDoS). **Su uso es estrictamente prohibido con fines maliciosos o ilegales**. Este código se proporciona únicamente con fines educativos y debe usarse de manera ética y responsable.
 
-![Logo DDoS](logo-github-ddos.png)
+![Logo Ataque-DDos](logo-github.png)
 
 ## 🚨 Descargo de Responsabilidad
 
